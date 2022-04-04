@@ -2,7 +2,7 @@
 
 Tooltip.
 
-To run this project zip file.
+To run this project  Download  zip file.
 
 use command npm install.
 
